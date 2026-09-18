@@ -1,4 +1,4 @@
-# — D Flip-Flop with Asynchronous Reset
+#  D Flip-Flop with Asynchronous Reset
 
 A positive-edge-triggered D flip-flop with **active-high asynchronous reset**,
 implemented in Verilog HDL and verified on Artix-7 FPGA.
